@@ -1,0 +1,30 @@
+# editor
+*~
+
+# python
+*.py[cod]
+*egg-info/
+__pycache__/
+dist/
+
+# pytest
+.cache/
+.pytest_cache/
+
+# sphinx
+docs/_build/
+
+# tox
+.tox/
+
+# tags
+tags
+TAGS
+GTAGS
+GRTAGS
+GPATH
+
+# me
+.nonpubfiles/
+pdf/
+temp/
