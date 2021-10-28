@@ -98,6 +98,15 @@ It should make customization a bit easier.
 .. `my 'diary' <https://openandclose.github.io/category/cncdiaries.html>`__.
 
 
+Examples
+--------
+
+If you want to see more cut pictures, visit my blog: 
+`_ <https://openandclose.github.io/cncdiary/2021-02-21-cut-mona-lisa.html>`__,
+`_ <https://openandclose.github.io/cncdiary/2021-03-23-cut-obama.html>`__,
+`_ <https://openandclose.github.io/cncdiary/2021-03-24-cut-umezu.html>`__.
+
+
 License
 -------
 
