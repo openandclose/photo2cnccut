@@ -2,7 +2,7 @@
 photo2cnccut
 ============
 
-.. image:: mona2_2.jpg
+.. image:: mona2_3.jpg
     :alt: picture of Mona Lisa cut on aluminum
     :align: left
 
